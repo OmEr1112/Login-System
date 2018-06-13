@@ -1,0 +1,6 @@
+use Illuminate\Foundation\Auth\SendsPasswordResetEmails;  forgotpassword
+use Illuminate\Foundation\Auth\AuthenticatesUsers;  login
+use Illuminate\Foundation\Auth\RegistersUsers; register
+validator create
+
+use Illuminate\Foundation\Auth\ResetsPasswords; resetpassword
